@@ -118,10 +118,3 @@ Points are calculated based on the following rules:
 
 You can use `curl` or Postman to test the API endpoints with the provided example payloads above.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
